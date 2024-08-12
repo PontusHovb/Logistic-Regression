@@ -3,17 +3,17 @@ In this project a maximum likelihood estimation for a multi-class logistic regre
 
 ## Standard gradient descent
 <p align="center">
-    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/main/Plots/Loss_Standard.png" width="400"/>
+    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/master/Plots/Loss_Standard.png" width="400"/>
 </p>
 <p align="center"><i>Loss for standard gradient descent</i></p>
 
 ## Stochastic gradient descent
 <p align="center">
-    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/main/Plots/Loss_Stochastic.png" width="400"/>
+    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/master/Plots/Loss_Stochastic.png" width="400"/>
 </p>
 <p align="center"><i>Loss for stochastic gradient descent</i></p>
 
 <p align="center">
-    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/main/Plots/ValAcc_Stochastic.png" width="400"/>
+    <img src="https://github.com/PontusHovb/Logistic-Regression/blob/master/Plots/ValAcc_Stochastic.png" width="400"/>
 </p>
 <p align="center"><i>Validation accuracy for stochastic gradient descent based on no. of iterations</i></p>
